@@ -41,7 +41,7 @@ This repository contains my **Terraform learning projects**, built and tested on
 ## 🚀 **Diagram Workflow **
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnasMassaoudi/devops-tools/main/devops.png" width="700">
+  <img src="https://github.com/arunmahato1421/aws-devops-learning/blob/168fa2e25272c4c991bcf82df5b86a2322806fe1/Terraform/project/terraform_vpc_project/nategateway.png" width="700">
 </p>
 
 
