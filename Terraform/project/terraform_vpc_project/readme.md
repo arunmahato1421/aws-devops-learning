@@ -34,9 +34,15 @@ This repository contains my **Terraform learning projects**, built and tested on
 | 💻 **VS Code** | Code editor with *Terraform* and *Remote - WSL* extensions |
 | 🔧 **Git** | Version control for tracking Terraform code changes |
 
-Diagram Overview  https://github.com/arunmahato1421/aws-devops-learning/blob/64cac979a8f4ef0acbf1f7504f017eaf1f718c1f/Terraform/project/terraform_vpc_project/nategateway.png
-
 
 
 
 ---
+## 🚀 **Diagram Workflow **
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnasMassaoudi/devops-tools/main/devops.png" width="700">
+</p>
+
+
+
