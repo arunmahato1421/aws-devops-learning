@@ -109,7 +109,7 @@
 ## 🚀 **DevOps Workflow Concept**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnasMassaoudi/devops-tools/main/devops.png" width="700">
+  <img src="https://github.com/arunmahato1421/aws-devops-learning/blob/01988c1d94592a6249f9dfebc4e8372c6a792d70/devops%20work%20flow.gif" width="700">
 </p>
 
 ---
@@ -121,7 +121,7 @@
 ## 🧊 **AWS VPC Architecture (Practice)**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CloudPaths/aws-diagrams/main/vpc-basic-diagram.png" width="720" />
+  <img src="https://github.com/arunmahato1421/aws-devops-learning/blob/01988c1d94592a6249f9dfebc4e8372c6a792d70/vpc.jpg" width="720" />
 </p>
 
 ---
@@ -133,13 +133,18 @@
 ## 📊 **GitHub Analytics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunmahato1421&show_icons=true&theme=transparent" width="450"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=arunmahato1421&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arunmahato1421&theme=transparent" width="450"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=arunmahato1421&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
-
 ---
 
 <!-- =============================== -->
