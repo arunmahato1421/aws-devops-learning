@@ -33,5 +33,6 @@ The network consists of the following key components:
 * **Subnet Mask:** `[255.255.255.0]`
 * **Default Gateway:** `192.168.10.1]`
 * **DHCP Service Status:** **ON**
+* **SWITCH PASSWORD:** **arun@123**
 Running configuration atteched 
 ***Please Follow***
