@@ -133,13 +133,12 @@
 ## 📊 **GitHub Analytics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunmahato1421&show_icons=true&theme=transparent" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arunmahato1421&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arunmahato1421&theme=transparent" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunmahato1421&theme=github-dark" />
 </p>
-
 ---
 
 <!-- =============================== -->
