@@ -66,13 +66,13 @@ Simulates real-world NOC monitoring system.
 ---
 
 <!-- =============================== -->
-<!-- 🧊 AWS DIAGRAM -->
+<!-- 🧊 EVE-NG -->
 <!-- =============================== -->
 
-## 🧊 **AWS VPC Architecture (Practice)**
+## 🧊 **EVE-NG SNAP**
 
 <p align="center">
-  <img src="https://github.com/arunmahato1421/aws-devops-learning/blob/01988c1d94592a6249f9dfebc4e8372c6a792d70/vpc.jpg" width="720" />
+  <img src="https://github.com/arunmahato1421/aws-devops-learning/blob/fe3b50e515579730f9534ecf8fce34057e705c46/NETWORKING/Monitoring%20tool/Screenshot%202026-05-04%20000014.png" width="720" />
 </p>
 
 ---
@@ -80,13 +80,13 @@ Simulates real-world NOC monitoring system.
 ---
 
 <!-- =============================== -->
-<!-- 🧊 AWS DIAGRAM -->
+<!-- 🧊 TELEGRAM DIAGRAM -->
 <!-- =============================== -->
 
-## 🧊 **AWS VPC Architecture (Practice)**
+## 🧊 **TELEGRAM NOTIFICATION **
 
 <p align="center">
-  <img src="https://github.com/arunmahato1421/aws-devops-learning/blob/01988c1d94592a6249f9dfebc4e8372c6a792d70/vpc.jpg" width="720" />
+  <img src="https://github.com/arunmahato1421/aws-devops-learning/blob/fe3b50e515579730f9534ecf8fce34057e705c46/NETWORKING/Monitoring%20tool/1000581333.jpg" width="720" />
 </p>
 
 ---
