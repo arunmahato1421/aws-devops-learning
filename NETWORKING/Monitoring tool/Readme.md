@@ -52,13 +52,13 @@ Simulates real-world NOC monitoring system.
 ---
 
 <!-- =============================== -->
-<!-- 🧊 AWS DIAGRAM -->
+<!-- 🧊  DIAGRAM -->
 <!-- =============================== -->
 
-## 🧊 **AWS VPC Architecture (Practice)**
+## 🧊 **TELEGRAM BOT MONITERING Architecture (Practice)**
 
 <p align="center">
-  <img src="https://github.com/arunmahato1421/aws-devops-learning/blob/01988c1d94592a6249f9dfebc4e8372c6a792d70/vpc.jpg" width="720" />
+  <img src="https://github.com/arunmahato1421/aws-devops-learning/blob/1eabf1728083063606cea4dc58337d9cfa946cba/NETWORKING/Monitoring%20tool/ChatGPT%20Image%20May%203%2C%202026%2C%2011_55_26%20PM.png" width="720" />
 </p>
 
 ---
