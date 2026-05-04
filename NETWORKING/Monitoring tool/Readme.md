@@ -49,5 +49,48 @@ Send message “hi” to your bot first
 ## Use Case
 Simulates real-world NOC monitoring system.
 
+---
+
+<!-- =============================== -->
+<!-- 🧊 AWS DIAGRAM -->
+<!-- =============================== -->
+
+## 🧊 **AWS VPC Architecture (Practice)**
+
+<p align="center">
+  <img src="https://github.com/arunmahato1421/aws-devops-learning/blob/01988c1d94592a6249f9dfebc4e8372c6a792d70/vpc.jpg" width="720" />
+</p>
+
+---
+
+---
+
+<!-- =============================== -->
+<!-- 🧊 AWS DIAGRAM -->
+<!-- =============================== -->
+
+## 🧊 **AWS VPC Architecture (Practice)**
+
+<p align="center">
+  <img src="https://github.com/arunmahato1421/aws-devops-learning/blob/01988c1d94592a6249f9dfebc4e8372c6a792d70/vpc.jpg" width="720" />
+</p>
+
+---
+
+---
+
+<!-- =============================== -->
+<!-- 🧊 AWS DIAGRAM -->
+<!-- =============================== -->
+
+## 🧊 **AWS VPC Architecture (Practice)**
+
+<p align="center">
+  <img src="https://github.com/arunmahato1421/aws-devops-learning/blob/01988c1d94592a6249f9dfebc4e8372c6a792d70/vpc.jpg" width="720" />
+</p>
+
+---
+
+
 ## Author
 ARUN MAHATO (Network Engineer)
