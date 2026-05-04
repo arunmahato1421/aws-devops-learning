@@ -30,7 +30,7 @@ This project monitors network devices using Python and sends real-time alerts vi
 
 BOT TOKEN
  ⚠️ Save this (very important) donot share !
-   Get Chat ID
+- Get Chat ID
 
 Open browser:
 
