@@ -8,4 +8,5 @@ WORKDIR /app
 COPY app.py /app/
 
 # Set default command
-CMD ["python", "app.py"]
+# Set default command
+CMD ["python", "app.py", "py"]
